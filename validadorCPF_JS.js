@@ -1,4 +1,4 @@
-/* Valida CPF jQuery */
+﻿/* Valida CPF jQuery */
             jQuery.fn.validacpf = function(){ 
 					this.change(function(){
 						CPF = jQuery(this).val();
